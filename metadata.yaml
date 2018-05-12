@@ -1,0 +1,25 @@
+_repo: Byeways-in-Palestine_22097
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Finn, James
+    deathdate: 1872
+    gutenberg_agent_id: '25105'
+    url: http://www.gutenberg.org/2009/agents/25105
+description: ''
+gutenberg_issued: '2007-07-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22097'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Palestine -- Description and travel'
+- !lcc 'DS'
+title: Byeways in Palestine
+url: http://www.gutenberg.org/ebooks/22097
